@@ -1,4 +1,23 @@
 {
+  "CF116209382": {
+    "contest_id": 1443,
+    "language": "GNU C++17",
+    "path": "codeforces\\1443\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Saving the City",
+    "problem_url": "https://codeforces.com/contest/1443/problem/B",
+    "submission_id": "CF116209382",
+    "submission_url": "https://codeforces.com/contest/1443/submission/116209382",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "May/15/2021 01:02"
+  },
   "CF116850142": {
     "contest_id": 1527,
     "language": "GNU C++17",
