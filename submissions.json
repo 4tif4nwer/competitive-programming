@@ -1,4 +1,24 @@
 {
+  "CF117457935": {
+    "contest_id": 1470,
+    "language": "GNU C++17",
+    "path": "codeforces\\1470\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Strange Birthday Party",
+    "problem_url": "https://codeforces.com/contest/1470/problem/A",
+    "submission_id": "CF117457935",
+    "submission_url": "https://codeforces.com/contest/1470/submission/117457935",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "May/27/2021 10:25"
+  },
   "CF117464298": {
     "contest_id": 1459,
     "language": "GNU C++17",
