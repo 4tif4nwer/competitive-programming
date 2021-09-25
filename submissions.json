@@ -1,4 +1,22 @@
 {
+  "CF129879909": {
+    "contest_id": 1573,
+    "language": "GNU C++17",
+    "path": "codeforces\\1573\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Swaps",
+    "problem_url": "https://codeforces.com/contest/1573/problem/B",
+    "submission_id": "CF129879909",
+    "submission_url": "https://codeforces.com/contest/1573/submission/129879909",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Sep/26/2021 01:06"
+  },
   "CF133504850": {
     "contest_id": 1606,
     "language": "GNU C++17",
