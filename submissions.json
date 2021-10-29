@@ -1,4 +1,22 @@
 {
+  "CF133508159": {
+    "contest_id": 1606,
+    "language": "GNU C++17",
+    "path": "codeforces\\1606\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Update Files",
+    "problem_url": "https://codeforces.com/contest/1606/problem/B",
+    "submission_id": "CF133508159",
+    "submission_url": "https://codeforces.com/contest/1606/submission/133508159",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Oct/29/2021 21:32"
+  },
   "CF133513623": {
     "contest_id": 1606,
     "language": "GNU C++17",
