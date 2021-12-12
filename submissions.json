@@ -1,4 +1,21 @@
 {
+  "CF138850143": {
+    "contest_id": 1608,
+    "language": "GNU C++17",
+    "path": "codeforces\\1608\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Build the Permutation",
+    "problem_url": "https://codeforces.com/contest/1608/problem/B",
+    "submission_id": "CF138850143",
+    "submission_url": "https://codeforces.com/contest/1608/submission/138850143",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Dec/12/2021 16:37"
+  },
   "CF138927892": {
     "contest_id": 1591,
     "language": "GNU C++17",
