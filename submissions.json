@@ -1,4 +1,21 @@
 {
+  "CF140035165": {
+    "contest_id": 1619,
+    "language": "GNU C++17",
+    "path": "codeforces\\1619\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Squares and Cubes",
+    "problem_url": "https://codeforces.com/contest/1619/problem/B",
+    "submission_id": "CF140035165",
+    "submission_url": "https://codeforces.com/contest/1619/submission/140035165",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/20/2021 20:20"
+  },
   "CF140047889": {
     "contest_id": 1619,
     "language": "GNU C++17",
