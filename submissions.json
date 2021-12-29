@@ -1,4 +1,20 @@
 {
+  "CF141050776": {
+    "contest_id": 1616,
+    "language": "GNU C++17",
+    "path": "codeforces\\1616\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Integer Diversity",
+    "problem_url": "https://codeforces.com/contest/1616/problem/A",
+    "submission_id": "CF141050776",
+    "submission_url": "https://codeforces.com/contest/1616/submission/141050776",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/29/2021 21:14"
+  },
   "CF141065581": {
     "contest_id": 1616,
     "language": "GNU C++17",
