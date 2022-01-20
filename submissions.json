@@ -1,4 +1,24 @@
 {
+  "CF143442923": {
+    "contest_id": 1408,
+    "language": "GNU C++17",
+    "path": "codeforces\\1408\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Discrete Acceleration",
+    "problem_url": "https://codeforces.com/contest/1408/problem/C",
+    "submission_id": "CF143442923",
+    "submission_url": "https://codeforces.com/contest/1408/submission/143442923",
+    "tags": [
+      "binary search",
+      "dp",
+      "implementation",
+      "math",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jan/20/2022 21:47"
+  },
   "CF143471427": {
     "contest_id": 1307,
     "language": "GNU C++17",
