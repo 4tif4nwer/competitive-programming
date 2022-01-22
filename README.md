@@ -12,4 +12,5 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [C - Meximum Array](https://codeforces.com/contest/1629/problem/C) | [GNU C++17](./codeforces/1629/C.cpp) | `constructive algorithms` `data structures` `greedy` `math` `two pointers` `*1400` | Jan/23/2022 02:46 | 
+2 | [C - Meximum Array](https://codeforces.com/contest/1629/problem/C) | [GNU C++17](./codeforces/1629/C.cpp) | `constructive algorithms` `data structures` `greedy` `math` `two pointers` `*1400` | Jan/23/2022 02:46 | 
+1 | [B - GCD Arrays](https://codeforces.com/contest/1629/problem/B) | [GNU C++17](./codeforces/1629/B.cpp) | `greedy` `math` `number theory` | Jan/23/2022 01:39 | 
