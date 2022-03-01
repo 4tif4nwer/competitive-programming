@@ -1757,6 +1757,25 @@
     ],
     "timestamp": "Jan/23/2022 02:46"
   },
+  "CF148055602": {
+    "contest_id": 1369,
+    "language": "GNU C++17",
+    "path": "codeforces\\1369\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "RationalLee",
+    "problem_url": "https://codeforces.com/contest/1369/problem/C",
+    "submission_id": "CF148055602",
+    "submission_url": "https://codeforces.com/contest/1369/submission/148055602",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Mar/01/2022 23:39"
+  },
   "CF148061716": {
     "contest_id": 1279,
     "language": "GNU C++17",
