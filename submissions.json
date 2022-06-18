@@ -2034,5 +2034,26 @@
       "*1500"
     ],
     "timestamp": "Mar/04/2022 12:18"
+  },
+  "CF161101445": {
+    "contest_id": 1695,
+    "language": "GNU C++17",
+    "path": "codeforces\\1695\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Zero Path",
+    "problem_url": "https://codeforces.com/contest/1695/problem/C",
+    "submission_id": "CF161101445",
+    "submission_url": "https://codeforces.com/contest/1695/submission/161101445",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*1700"
+    ],
+    "timestamp": "Jun/18/2022 21:30"
   }
 }
