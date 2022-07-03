@@ -2457,6 +2457,25 @@
     ],
     "timestamp": "Jun/18/2022 21:30"
   },
+  "CF162678850": {
+    "contest_id": 1041,
+    "language": "GNU C++17",
+    "path": "codeforces/1041/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Coffee Break",
+    "problem_url": "https://codeforces.com/contest/1041/problem/C",
+    "submission_id": "CF162678850",
+    "submission_url": "https://codeforces.com/contest/1041/submission/162678850",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "Jul/04/2022 01:47"
+  },
   "CF162880549": {
     "contest_id": 1389,
     "language": "GNU C++17",
