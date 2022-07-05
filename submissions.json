@@ -2457,6 +2457,25 @@
     ],
     "timestamp": "Jun/18/2022 21:30"
   },
+  "CF162928833": {
+    "contest_id": 1098,
+    "language": "GNU C++17",
+    "path": "codeforces/1098/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum in the tree",
+    "problem_url": "https://codeforces.com/contest/1098/problem/A",
+    "submission_id": "CF162928833",
+    "submission_url": "https://codeforces.com/contest/1098/submission/162928833",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Jul/06/2022 00:11"
+  },
   "CF164266511": {
     "contest_id": 1705,
     "language": "GNU C++17",
