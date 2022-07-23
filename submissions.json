@@ -2457,6 +2457,28 @@
     ],
     "timestamp": "Jun/18/2022 21:30"
   },
+  "CF165461680": {
+    "contest_id": 1706,
+    "language": "GNU C++17",
+    "path": "codeforces/1706/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Qpwoeirut and Vertices",
+    "problem_url": "https://codeforces.com/contest/1706/problem/E",
+    "submission_id": "CF165461680",
+    "submission_url": "https://codeforces.com/contest/1706/submission/165461680",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dsu",
+      "greedy",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "Jul/24/2022 00:45"
+  },
   "CF169249822": {
     "contest_id": 1715,
     "language": "GNU C++17",
