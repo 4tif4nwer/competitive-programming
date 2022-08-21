@@ -2457,6 +2457,25 @@
     ],
     "timestamp": "Jun/18/2022 21:30"
   },
+  "CF169249822": {
+    "contest_id": 1715,
+    "language": "GNU C++17",
+    "path": "codeforces/1715/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "2+ doors",
+    "problem_url": "https://codeforces.com/contest/1715/problem/D",
+    "submission_id": "CF169249822",
+    "submission_url": "https://codeforces.com/contest/1715/submission/169249822",
+    "tags": [
+      "2-sat",
+      "bitmasks",
+      "graphs",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Aug/21/2022 20:27"
+  },
   "CF169270264": {
     "contest_id": 1720,
     "language": "GNU C++17",
