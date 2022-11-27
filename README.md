@@ -12,25 +12,26 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-153 | [D - Playoff](https://codeforces.com/contest/1767/problem/D) | [GNU C++17](./codeforces/1767/D.cpp) | `combinatorics` `constructive algorithms` `dp` `greedy` `math` | Dec/16/2022 21:12 | 
-152 | [B - Block Towers](https://codeforces.com/contest/1767/problem/B) | [GNU C++17](./codeforces/1767/B.cpp) | `data structures` `greedy` `sortings` | Dec/16/2022 20:27 | 
-151 | [A - Cut the Triangle](https://codeforces.com/contest/1767/problem/A) | [GNU C++17](./codeforces/1767/A.cpp) | `geometry` `implementation` | Dec/16/2022 20:13 | 
-150 | [D - Knowledge Cards](https://codeforces.com/contest/1740/problem/D) | [GNU C++17](./codeforces/1740/D.cpp) | `constructive algorithms` `data structures` `*1500` | Dec/14/2022 13:04 | 
-149 | [C - Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | [GNU C++17](./codeforces/1740/C.cpp) | `constructive algorithms` `games` `greedy` `sortings` `*1400` | Dec/14/2022 11:53 | 
-148 | [B - Jumbo Extra Cheese 2](https://codeforces.com/contest/1740/problem/B) | [GNU C++17](./codeforces/1740/B.cpp) | `geometry` `greedy` `sortings` `*800` | Dec/14/2022 11:09 | 
-147 | [A - Factorise N+M](https://codeforces.com/contest/1740/problem/A) | [GNU C++17](./codeforces/1740/A.cpp) | `constructive algorithms` `number theory` `*800` | Dec/14/2022 10:56 | 
-146 | [C - Zero-Sum Prefixes](https://codeforces.com/contest/1748/problem/C) | [GNU C++17](./codeforces/1748/C.cpp) | `brute force` `data structures` `dp` `greedy` `implementation` `*1600` | Dec/13/2022 16:27 | 
-145 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [GNU C++17](./codeforces/1771/C.cpp) | `math` `number theory` | Dec/12/2022 12:58 | 
-144 | [D - Factorial Divisibility](https://codeforces.com/contest/1754/problem/D) | [GNU C++17](./codeforces/1754/D.cpp) | `math` `*1600` | Dec/10/2022 22:52 | 
-143 | [C2 - Make Nonzero Sum (hard version)](https://codeforces.com/contest/1754/problem/C2) | [GNU C++17](./codeforces/1754/C2.cpp) | `constructive algorithms` `implementation` `*1500` | Dec/10/2022 21:54 | 
-142 | [D - Yet Another Problem](https://codeforces.com/contest/1747/problem/D) | [GNU C++17](./codeforces/1747/D.cpp) | `binary search` `bitmasks` `constructive algorithms` `data structures` `*1900` | Dec/09/2022 16:45 | 
-141 | [B - Meeting on the Line](https://codeforces.com/contest/1730/problem/B) | [GNU C++17](./codeforces/1730/B.cpp) | `binary search` `geometry` `greedy` `implementation` `math` `ternary search` `*1600` | Dec/09/2022 04:42 | 
-140 | [G - SlavicG's Favorite Problem](https://codeforces.com/contest/1760/problem/G) | [GNU C++17](./codeforces/1760/G.cpp) | `bitmasks` `dfs and similar` `graphs` `*1700` | Dec/09/2022 01:20 | 
-139 | [D - Carry Bit](https://codeforces.com/contest/1761/problem/D) | [GNU C++17](./codeforces/1761/D.cpp) | `combinatorics` `math` `*2100` | Dec/08/2022 23:59 | 
-138 | [C - Set Construction](https://codeforces.com/contest/1761/problem/C) | [GNU C++17](./codeforces/1761/C.cpp) | `constructive algorithms` `dfs and similar` `graphs` `greedy` `*1400` | Dec/08/2022 20:23 | 
-137 | [D - Range = √Sum](https://codeforces.com/contest/1758/problem/D) | [GNU C++17](./codeforces/1758/D.cpp) | `binary search` `brute force` `constructive algorithms` `math` `two pointers` `*1800` | Dec/08/2022 18:14 | 
-136 | [C - Almost All Multiples](https://codeforces.com/contest/1758/problem/C) | [GNU C++17](./codeforces/1758/C.cpp) | `greedy` `number theory` `*1400` | Dec/08/2022 13:04 | 
-135 | [C - Doremy's City Construction](https://codeforces.com/contest/1764/problem/C) | [GNU C++17](./codeforces/1764/C.cpp) | `graphs` `greedy` `*1400` | Dec/08/2022 01:08 | 
+154 | [D - Playoff](https://codeforces.com/contest/1767/problem/D) | [GNU C++17](./codeforces/1767/D.cpp) | `combinatorics` `constructive algorithms` `dp` `greedy` `math` | Dec/16/2022 21:12 | 
+153 | [B - Block Towers](https://codeforces.com/contest/1767/problem/B) | [GNU C++17](./codeforces/1767/B.cpp) | `data structures` `greedy` `sortings` | Dec/16/2022 20:27 | 
+152 | [A - Cut the Triangle](https://codeforces.com/contest/1767/problem/A) | [GNU C++17](./codeforces/1767/A.cpp) | `geometry` `implementation` | Dec/16/2022 20:13 | 
+151 | [D - Knowledge Cards](https://codeforces.com/contest/1740/problem/D) | [GNU C++17](./codeforces/1740/D.cpp) | `constructive algorithms` `data structures` `*1500` | Dec/14/2022 13:04 | 
+150 | [C - Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | [GNU C++17](./codeforces/1740/C.cpp) | `constructive algorithms` `games` `greedy` `sortings` `*1400` | Dec/14/2022 11:53 | 
+149 | [B - Jumbo Extra Cheese 2](https://codeforces.com/contest/1740/problem/B) | [GNU C++17](./codeforces/1740/B.cpp) | `geometry` `greedy` `sortings` `*800` | Dec/14/2022 11:09 | 
+148 | [A - Factorise N+M](https://codeforces.com/contest/1740/problem/A) | [GNU C++17](./codeforces/1740/A.cpp) | `constructive algorithms` `number theory` `*800` | Dec/14/2022 10:56 | 
+147 | [C - Zero-Sum Prefixes](https://codeforces.com/contest/1748/problem/C) | [GNU C++17](./codeforces/1748/C.cpp) | `brute force` `data structures` `dp` `greedy` `implementation` `*1600` | Dec/13/2022 16:27 | 
+146 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [GNU C++17](./codeforces/1771/C.cpp) | `math` `number theory` | Dec/12/2022 12:58 | 
+145 | [D - Factorial Divisibility](https://codeforces.com/contest/1754/problem/D) | [GNU C++17](./codeforces/1754/D.cpp) | `math` `*1600` | Dec/10/2022 22:52 | 
+144 | [C2 - Make Nonzero Sum (hard version)](https://codeforces.com/contest/1754/problem/C2) | [GNU C++17](./codeforces/1754/C2.cpp) | `constructive algorithms` `implementation` `*1500` | Dec/10/2022 21:54 | 
+143 | [D - Yet Another Problem](https://codeforces.com/contest/1747/problem/D) | [GNU C++17](./codeforces/1747/D.cpp) | `binary search` `bitmasks` `constructive algorithms` `data structures` `*1900` | Dec/09/2022 16:45 | 
+142 | [B - Meeting on the Line](https://codeforces.com/contest/1730/problem/B) | [GNU C++17](./codeforces/1730/B.cpp) | `binary search` `geometry` `greedy` `implementation` `math` `ternary search` `*1600` | Dec/09/2022 04:42 | 
+141 | [G - SlavicG's Favorite Problem](https://codeforces.com/contest/1760/problem/G) | [GNU C++17](./codeforces/1760/G.cpp) | `bitmasks` `dfs and similar` `graphs` `*1700` | Dec/09/2022 01:20 | 
+140 | [D - Carry Bit](https://codeforces.com/contest/1761/problem/D) | [GNU C++17](./codeforces/1761/D.cpp) | `combinatorics` `math` `*2100` | Dec/08/2022 23:59 | 
+139 | [C - Set Construction](https://codeforces.com/contest/1761/problem/C) | [GNU C++17](./codeforces/1761/C.cpp) | `constructive algorithms` `dfs and similar` `graphs` `greedy` `*1400` | Dec/08/2022 20:23 | 
+138 | [D - Range = √Sum](https://codeforces.com/contest/1758/problem/D) | [GNU C++17](./codeforces/1758/D.cpp) | `binary search` `brute force` `constructive algorithms` `math` `two pointers` `*1800` | Dec/08/2022 18:14 | 
+137 | [C - Almost All Multiples](https://codeforces.com/contest/1758/problem/C) | [GNU C++17](./codeforces/1758/C.cpp) | `greedy` `number theory` `*1400` | Dec/08/2022 13:04 | 
+136 | [C - Doremy's City Construction](https://codeforces.com/contest/1764/problem/C) | [GNU C++17](./codeforces/1764/C.cpp) | `graphs` `greedy` `*1400` | Dec/08/2022 01:08 | 
+135 | [C - Swap Game](https://codeforces.com/contest/1747/problem/C) | [GNU C++17](./codeforces/1747/C.cpp) | `games` `*1200` | Nov/27/2022 19:04 | 
 134 | [C - Zero Path](https://codeforces.com/contest/1695/problem/C) | [GNU C++17](./codeforces/1695/C.cpp) | `brute force` `data structures` `dp` `graphs` `greedy` `shortest paths` `*1700` | Jun/18/2022 21:30 | 
 133 | [B - Circle Game](https://codeforces.com/contest/1695/problem/B) | [GNU C++17](./codeforces/1695/B.cpp) | `games` `greedy` `*1000` | Jun/18/2022 20:37 | 
 132 | [A - Subrectangle Guess](https://codeforces.com/contest/1695/problem/A) | [GNU C++17](./codeforces/1695/A.cpp) | `games` `*800` | Jun/18/2022 20:14 | 

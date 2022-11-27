@@ -2457,6 +2457,22 @@
     ],
     "timestamp": "Jun/18/2022 21:30"
   },
+  "CF182910164": {
+    "contest_id": 1747,
+    "language": "GNU C++17",
+    "path": "codeforces/1747/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Swap Game",
+    "problem_url": "https://codeforces.com/contest/1747/problem/C",
+    "submission_id": "CF182910164",
+    "submission_url": "https://codeforces.com/contest/1747/submission/182910164",
+    "tags": [
+      "games",
+      "*1200"
+    ],
+    "timestamp": "Nov/27/2022 19:04"
+  },
   "CF184263656": {
     "contest_id": 1764,
     "language": "GNU C++17",
