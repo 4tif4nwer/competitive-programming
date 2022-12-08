@@ -123,7 +123,7 @@ int main()
             //cout<<x<<"\n";
             if(time>max(float(left[i])+x,float(right[i+1]+a[i+1].first-a[i].first)-x)){
             
-                ans = float(a[i].first)+x;
+                ans = a[i].first+x;
                 time = max(float(left[i])+x,float(right[i+1]+a[i+1].first-a[i].first)-x);
                 //cout<<ans<<" "<<time<<"\n";
             }
