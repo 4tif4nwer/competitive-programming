@@ -2457,6 +2457,22 @@
     ],
     "timestamp": "Jun/18/2022 21:30"
   },
+  "CF184859397": {
+    "contest_id": 1771,
+    "language": "GNU C++17",
+    "path": "codeforces/1771/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hossam and Trainees",
+    "problem_url": "https://codeforces.com/contest/1771/problem/C",
+    "submission_id": "CF184859397",
+    "submission_url": "https://codeforces.com/contest/1771/submission/184859397",
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Dec/12/2022 12:58"
+  },
   "CF185063523": {
     "contest_id": 1748,
     "language": "GNU C++17",
