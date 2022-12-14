@@ -2457,6 +2457,23 @@
     ],
     "timestamp": "Jun/18/2022 21:30"
   },
+  "CF185141798": {
+    "contest_id": 1740,
+    "language": "GNU C++17",
+    "path": "codeforces/1740/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Factorise N+M",
+    "problem_url": "https://codeforces.com/contest/1740/problem/A",
+    "submission_id": "CF185141798",
+    "submission_url": "https://codeforces.com/contest/1740/submission/185141798",
+    "tags": [
+      "constructive algorithms",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Dec/14/2022 10:56"
+  },
   "CF185142595": {
     "contest_id": 1740,
     "language": "GNU C++17",
